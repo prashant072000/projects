@@ -1,0 +1,29 @@
+body{
+    background-color: lightblue;
+    padding: 10%;
+    margin: 20px;
+}
+h1{
+    font-family: monospace;
+    display: inline-block;
+    text-align: center;
+    padding: 8px 30px;
+    margin: 10px 378px;
+    border-radius: 30px;
+    background-color: rgb(187, 71, 181);
+}
+tr{
+    font-style: normal;
+    background-color:coral;
+}
+td{
+    font-style: italic;
+}
+select{
+    font-style: inherit;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gold;
+}
+div input{
+    background-color: gold;
+}
